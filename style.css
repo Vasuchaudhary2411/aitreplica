@@ -35,7 +35,7 @@ ul {
   color: white;
 }
 .main {
-  background-color:rgb(47, 79, 79);
+  background-color:white;
   color: white;
 }
 
@@ -76,7 +76,7 @@ font-size:17px;
 }
 .menu li
 {
-    margin-left: 600px;
+    margin-left: 35px;
     color: white;
     font-size: 50px;
 }
